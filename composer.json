@@ -1,0 +1,5 @@
+{
+    "require": {
+        "sofort/sofortlib-php": "^3.2"
+    }
+}
